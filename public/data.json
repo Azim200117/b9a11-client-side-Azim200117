@@ -1,0 +1,98 @@
+[
+  {
+    "room_id": 1,
+    "title": "Luxury Ocean View Suite",
+    "description": "Luxury Suite with Ocean View",
+    "price": 350,
+    "facilities": ["Living Room", "Swimming Pool", "Kitchen"],
+    "room_img": "https://i.ibb.co/rF3Zxch/room1.jpg"
+  },
+  {
+    "room_id": 2,
+    "title": "Deluxe Garden View Room",
+    "description": "Deluxe Room with Garden View",
+    "price": 200,
+    "facilities": ["Living Room", "Gym", "Spa"],
+    "room_img": "https://i.ibb.co/RyCqKSP/room2.jpg"
+  },
+  {
+    "room_id": 3,
+    "title": "Standard City View Room",
+    "description": "Standard Room with City View",
+    "price": 120,
+    "facilities": ["Living Room", "Restaurant", "Bar"],
+    "room_img": "https://i.ibb.co/XWkNTjz/pexels-photo-2764182.jpg"
+  },
+  {
+    "room_id": 4,
+    "title": "Family Mountain View Suite",
+    "description": "Family Suite with Mountain View",
+    "price": 400,
+    "facilities": ["Living Room", "Playground", "Kitchen"],
+    "room_img": "https://i.ibb.co/2N7gCG3/pexels-photo-1719722.jpg"
+  },
+  {
+    "room_id": 5,
+    "title": "Skyline Penthouse",
+    "description": "Penthouse with Skyline View",
+    "price": 600,
+    "facilities": ["Living Room", "Infinity Pool", "Gourmet Dining"],
+    "room_img": "https://i.ibb.co/R3ZhybH/free-photo-of-view-of-a-city.jpg"
+  },
+  {
+    "room_id": 6,
+    "title": "Executive River View Suite",
+    "description": "Executive Suite with River View",
+    "price": 450,
+    "facilities": ["Living Room", "Spa", "Bar"],
+    "room_img": "https://images.pexels.com/photos/3566191/pexels-photo-3566191.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "room_id": 7,
+    "title": "Cozy Forest View Cottage",
+    "description": "Cozy Cottage with Forest View",
+    "price": 180,
+    "facilities": ["Living Room", "Fireplace", "Kitchen"],
+    "room_img": "https://images.pexels.com/photos/4915971/pexels-photo-4915971.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "room_id": 8,
+    "title": "Beachfront Bungalow",
+    "description": "Beachfront Bungalow with Pool",
+    "price": 700,
+    "facilities": ["Living Room", "Private Beach Access", "Kitchen"],
+    "room_img": "https://images.pexels.com/photos/15031960/pexels-photo-15031960/free-photo-of-maldives-island-water-villa-sunset.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "room_id": 9,
+    "title": "Charming Garden Villa",
+    "description": "Charming Villa with Garden Access",
+    "price": 300,
+    "facilities": ["Living Room", "Garden Terrace", "Kitchen"],
+    "room_img": "https://images.pexels.com/photos/5997993/pexels-photo-5997993.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "room_id": 10,
+    "title": "Rustic Lake View Cabin",
+    "description": "Rustic Cabin with Lake View",
+    "price": 150,
+    "facilities": ["Living Room", "Hiking Trails", "Kitchen"],
+    "room_img": "https://images.pexels.com/photos/6477590/pexels-photo-6477590.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "room_id": 11,
+    "title": "Modern Cityscape Loft",
+    "description": "Modern Loft with Cityscape View",
+    "price": 250,
+    "facilities": ["Living Room", "Rooftop Terrace", "Kitchen"],
+    "room_img": "https://images.pexels.com/photos/6045336/pexels-photo-6045336.jpeg?auto=compress&cs=tinysrgb&w=400"
+  },
+  {
+    "room_id": 12,
+    "title": "Elegant Mansion",
+    "description": "Elegant Mansion with Patio",
+    "price": 1000,
+    "facilities": ["Living Room", "Poolside Barbecue", "Kitchen"],
+    "room_img": "https://images.pexels.com/photos/6283968/pexels-photo-6283968.jpeg?auto=compress&cs=tinysrgb&w=400"
+  }
+]

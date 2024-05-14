@@ -1,0 +1,26 @@
+[
+  {
+    "room_id": 10,
+    "title": "Luxury Ocean View Suite",
+    "description": "Luxury Suite with Ocean View",
+    "price": 350,
+    "facilities": ["Living Room", "Swimming Pool", "Kitchen"],
+    "room_img": "https://i.ibb.co/rF3Zxch/room1.jpg"
+  },
+  {
+    "room_id": 20,
+    "title": "Deluxe Garden View Room",
+    "description": "Deluxe Room with Garden View",
+    "price": 200,
+    "facilities": ["Living Room", "Gym", "Spa"],
+    "room_img": "https://i.ibb.co/RyCqKSP/room2.jpg"
+  },
+  {
+    "room_id": 30,
+    "title": "Standard City View Room",
+    "description": "Standard Room with City View",
+    "price": 120,
+    "facilities": ["Living Room", "Restaurant", "Bar"],
+    "room_img": "https://i.ibb.co/XWkNTjz/pexels-photo-2764182.jpg"
+  }
+]
